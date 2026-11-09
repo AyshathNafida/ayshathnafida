@@ -22,11 +22,6 @@ I enjoy building things, finding patterns in data, and testing systems to make t
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 - **Tools:** Git, GitHub, Docker, Linux, VS Code
 
-## Currently building and learning
-
-- 🚧 **Fraud detection system:** ML on transaction data with explainability (scikit-learn, SHAP, FastAPI, Streamlit)
-- 📚 RAG applications and LLM evaluation
-- 🔐 AI security: prompt injection, red-teaming and guardrails for LLM apps (OWASP Top 10 for LLM Applications)
 
 ## Experience
 
